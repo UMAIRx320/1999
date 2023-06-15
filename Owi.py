@@ -29,7 +29,7 @@ wa = Console()
 for xd in range(10000):
 	a='Mozilla/5.0 (Linux; Android'
 	b=random.choice(['5.0','6.0','7.0','8.1.0','9','10','11','12'])
-	c=random.choice(['SUGAR T50 Build/PPR1.180610.011; wv)'])
+	c=random.choice(['V2025 Build/SP1A.210812.003; wv)'])
 	d=random.choice(['A','B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z'])
 	e=random.randrange(1, 999)
 	f=random.choice(['A','B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z'])
@@ -49,14 +49,14 @@ for xd in range(10000):
 		
 	rr = random.randint
 	rc = random.choice
-	um = f"Dalvik/1.6.0 (Android 12; Nokia C2 2nd Edition Build/RP1A.{str(rr(111111,199999))}.016) [FBAN/MessengerLite;FBAV/{str(rr(120,150))}.0.0.2.{str(rr(110,150))};FBPN/com.facebook.mlite;FBLC/en_US;FBBV/{str(rr(200000000,299999999))};FBCR/Airtel;FBMF/Facebook;Facebook/lge;FBDV/Nokia C2 2nd Edition;FBSV/13;FBCA"
+	um = f"Dalvik/1.6.0 (Android 13; M2007J22G Build/SP1A.{str(rr(111111,199999))}.016) [FBAN/MessengerLite;FBAV/{str(rr(120,150))}.0.0.2.{str(rr(110,150))};FBPN/com.facebook.mlite;FBLC/en_US;FBBV/{str(rr(200000000,299999999))};FBCR/Airtel;FBMF/Facebook;Facebook/lge;FBDV/M2007J22G;FBSV/13;FBCA"
 	ugen2.append(um)
 	
 	a='Dalvik/2.1.0 (Android'
 	b=random.choice(['5.0','6.0','7.0','8.1.0','9','10','11','12'])
-	c=random.choice(['SM-A415F'])
+	c=random.choice(['M2006C3MG'])
 	g='Build/SP1A.210812.016)'
-	p='[FBAN/MessengerLite;FBAV/141.0.0.2.117;FBPN/com.facebook.mlite;FBLC/en_US;FBBV/293513921;FBCR/Airtel;FBMF/Facebook;Facebook/lge;FBDV/SM-A415F;FBSV/9;FBCA'
+	p='[FBAN/MessengerLite;FBAV/141.0.0.2.117;FBPN/com.facebook.mlite;FBLC/en_US;FBBV/293513921;FBCR/Airtel;FBMF/Facebook;Facebook/lge;FBDV/M2006C3MG;FBSV/9;FBCA'
 	uaku=f'{a} {b}; {c} {g} {p}'
 	ugen2.append(uaku)
 #------------[ CCC ]---------------#
