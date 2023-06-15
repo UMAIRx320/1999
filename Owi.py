@@ -29,7 +29,7 @@ wa = Console()
 for xd in range(10000):
 	a='Mozilla/5.0 (Linux; Android'
 	b=random.choice(['5.0','6.0','7.0','8.1.0','9','10','11','12'])
-	c=random.choice(['Huawei P20 Lite Build/PQ3A.190801.002; wv)'])
+	c=random.choice(['SUGAR T50 Build/PPR1.180610.011; wv)'])
 	d=random.choice(['A','B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z'])
 	e=random.randrange(1, 999)
 	f=random.choice(['A','B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z'])
@@ -49,25 +49,21 @@ for xd in range(10000):
 		
 	rr = random.randint
 	rc = random.choice
-	dalvik = random.choice(['2.1.0','2.0.0','1.6.0','1.5.0','1.4.0','1.2.0','1.1.0'])
-	g2 = random.choice(['OPM1','TP1A','RP1A','PPR1','PKQ1','QP1A','SP1A','RKQ1','QKQ1'])
-	uk = f"Dalvik/{dalvik} (Android {str(rr(4,12))}; MI CC 9e Build/{g2}.{str(rr(111111,199999))}.011) [FBAN/MessengerLite;FBAV/{str(rr(120,150))}.0.0.2.{str(rr(110,150))};FBPN/com.facebook.mlite;FBLC/en_US;FBBV/{str(rr(200000000,299999999))};FBCR/Airtel;FBMF/Facebook;Facebook/lge;FBDV/ MI CC 9e;FBSV/13;FBCA"
-	ugen2.append(uk)
-	um = f"Dalvik/1.6.0 (Android 13; TAS-L29 Build/QKQ1.{str(rr(111111,199999))}.016) [FBAN/MessengerLite;FBAV/{str(rr(120,150))}.0.0.2.{str(rr(110,150))};FBPN/com.facebook.mlite;FBLC/en_US;FBBV/{str(rr(200000000,299999999))};FBCR/Airtel;FBMF/Facebook;Facebook/lge;FBDV/ TAS-L29;FBSV/13;FBCA"
+	um = f"Dalvik/1.6.0 (Android 12; Nokia C2 2nd Edition Build/RP1A.{str(rr(111111,199999))}.016) [FBAN/MessengerLite;FBAV/{str(rr(120,150))}.0.0.2.{str(rr(110,150))};FBPN/com.facebook.mlite;FBLC/en_US;FBBV/{str(rr(200000000,299999999))};FBCR/Airtel;FBMF/Facebook;Facebook/lge;FBDV/Nokia C2 2nd Edition;FBSV/13;FBCA"
 	ugen2.append(um)
 	
 	a='Dalvik/2.1.0 (Android'
 	b=random.choice(['5.0','6.0','7.0','8.1.0','9','10','11','12'])
-	c=random.choice(['22041219C'])
+	c=random.choice(['SM-A415F'])
 	g='Build/SP1A.210812.016)'
-	p='[FBAN/MessengerLite;FBAV/141.0.0.2.117;FBPN/com.facebook.mlite;FBLC/en_US;FBBV/293513921;FBCR/Airtel;FBMF/Facebook;Facebook/lge;FBDV/22041219C;FBSV/9;FBCA'
+	p='[FBAN/MessengerLite;FBAV/141.0.0.2.117;FBPN/com.facebook.mlite;FBLC/en_US;FBBV/293513921;FBCR/Airtel;FBMF/Facebook;Facebook/lge;FBDV/SM-A415F;FBSV/9;FBCA'
 	uaku=f'{a} {b}; {c} {g} {p}'
 	ugen2.append(uaku)
 #------------[ CCC ]---------------#
 	
 	aa='Mozilla/5.0 (Linux; Android'
 	b=random.choice(['5.0','6.0','7.0','8.1.0','9','10','11','12'])
-	c=random.choice(['SM-G570M Build/NRD90M; wv)'])
+	c=random.choice(['SUGAR T50 Build/PPR1.180610.011; wv)'])
 	d=random.choice(['A','B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z'])
 	e=random.randrange(1, 999)
 	f=random.choice(['A','B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z'])
